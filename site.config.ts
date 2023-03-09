@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'AI帮',
+  name: 'AI帮.ME',
   domain: 'aibang.me',
-  author: 'AI帮小编',
+  author: 'AI帮.ME',
 
   // open graph metadata (optional)
-  description: 'AI帮是一个用AI来帮助你实现日常工作需要的超级小能手',
+  description: 'AI帮.ME是一个用AI来帮助你实现日常工作需要的超级小能手',
 
   // social usernames (optional)
   twitter: '',
@@ -50,16 +50,15 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  navigationStyle: 'custom',
+  navigationLinks: [
+    {
+      title: '购买OpenAI账号',
+      url: 'https://pay.theinspiredgroup.com/#/18/detail'
+    },
+    {
+      title: 'ChatGPT',
+      url: 'https://chatgpt35.theinspiredgroup.com'
+    }
+  ]
 })
