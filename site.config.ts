@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'AI帮.ME',
-  domain: 'aibang.me',
+  domain: 'blog.aibang.me',
   author: 'AI帮.ME',
 
   // open graph metadata (optional)
