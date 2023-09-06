@@ -57,7 +57,7 @@ export default siteConfig({
       url: 'https://pay.tig.im/#/18/detail'
     },
     {
-      title: 'ChatGPT',
+      title: 'ChatGPT AI 网站',
       url: 'https://chat.theinspiredgroup.com'
     }
   ]
