@@ -54,11 +54,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '购买OpenAI账号',
-      url: 'https://pay.tig.im/#/18/detail'
+      url: 'https://mall.theinspiredgroup.com/#/18/detail'
     },
     {
       title: 'ChatGPT AI 网站',
-      url: 'https://chat.theinspiredgroup.com'
+      url: 'https://ai.tig.i,'
     }
   ]
 })
